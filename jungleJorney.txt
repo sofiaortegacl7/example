@@ -7,3 +7,4 @@ List of elements we need:
 2. knife
 3. thermos 
 4. food 
+5. tent 
