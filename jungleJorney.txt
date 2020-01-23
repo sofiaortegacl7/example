@@ -9,3 +9,4 @@ List of elements we need:
 4. food 
 5. tent 
 6. clothes 
+7. box with medicines 
