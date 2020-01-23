@@ -8,3 +8,4 @@ List of elements we need:
 3. thermos 
 4. food 
 5. tent 
+6. clothes 
